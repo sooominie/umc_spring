@@ -9,6 +9,8 @@ import umc.study.domain.mapping.MemberAgree;
 import java.util.ArrayList;
 import java.util.List;
 
+
+
 @Entity
 @Getter
 @Builder

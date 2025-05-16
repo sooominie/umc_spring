@@ -7,6 +7,9 @@ import umc.study.domain.common.*;
 import umc.study.domain.mapping.*;
 import java.time.LocalDate;
 import java.util.*;
+import umc.study.domain.Store;
+import umc.study.domain.mapping.MemberMission;
+
 
 @Entity
 @Getter

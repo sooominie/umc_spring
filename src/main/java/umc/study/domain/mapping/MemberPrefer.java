@@ -5,6 +5,8 @@ import lombok.*;
 import umc.study.domain.Member;
 import umc.study.domain.common.BaseEntity;
 
+import umc.study.domain.Member;
+
 @Entity
 @Getter
 @Builder

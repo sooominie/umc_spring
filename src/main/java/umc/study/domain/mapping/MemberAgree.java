@@ -4,6 +4,8 @@ import jakarta.persistence.*;
 import lombok.*;
 import umc.study.domain.*;
 import umc.study.domain.common.BaseEntity;
+import umc.study.domain.*;
+
 
 @Entity
 @Getter
